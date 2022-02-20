@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:/laragon/www/lara01">
+          <value>
+            <RecentProjectMetaInfo frameTitle="lara01 – web.php" projectWorkspaceId="23p6FIA6imwQJcEVSzjRrnCOcYr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-211.6693.120" />
+              <option name="buildTimestamp" value="1617793525688" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1643402213043" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/laragon/www/php-practice">
+          <value>
+            <RecentProjectMetaInfo frameTitle="php-practice – Strawberry.php" projectWorkspaceId="1z6SYXP6CA4kYTT3PoOxmCjkynR">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-211.6693.120" />
+              <option name="buildTimestamp" value="1617793556283" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1643553824256" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/laragon/www/laravel-pract">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-pract – web.php" projectWorkspaceId="24VbIJdojcCgOOsFXGHbLHqGepm">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-211.6693.120" />
+              <option name="buildTimestamp" value="1617793505180" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1643718619560" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/laragon/www/laravel-9-app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-9-app – composer.json" opened="true" projectWorkspaceId="25Jva8yVPlPZGZ2BYDwIMZkUxGk">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-211.6693.120" />
+              <option name="buildTimestamp" value="1617793556767" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1645258064501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
+  </component>
+</application>

@@ -1,0 +1,80 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="16.13.1" last-modified="1638340284000" />
+    </local-interpreter>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1z6SYXP6CA4kYTT3PoOxmCjkynR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23p6FIA6imwQJcEVSzjRrnCOcYr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="24VbIJdojcCgOOsFXGHbLHqGepm">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="25Jva8yVPlPZGZ2BYDwIMZkUxGk">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="64-81-94-255,,,72-102-51-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="laravel idea&#10;material se&#10;materia&#10;material&#10;mate" />
+    <property name="KEYMAP" value="font&#10;php file&#10;database" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="MTUILite.version" value="4.0" />
+    <property name="MarketplacePluginsSearchHistory" value="material&#10;kite&#10;tailwind&#10;laravel&#10;presentation assistant" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="console font&#10;laravel idea&#10;material se&#10;git&#10;tailwind" />
+    <property name="appcds.runOnSecondStart" value="PS-211.6693.120-7ffba2e8e70e40002910cc3a676da52f2e7ac965d380230283246106c636952b" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="bidi.content.notification.disable" value="true" />
+    <property name="evlsprt3.211" value="11" />
+    <property name="file.chooser.recent.files" value="C:/xampp/htdocs/laracast-blog/tailwindConfig-default.js&#10;C:/xampp/htdocs/laracast-blog&#10;C:/xampp/htdocs/Laravel-From-Scratch-Blog-Project" />
+    <property name="file.gist.reindex.count" value="67" />
+    <property name="fileTypeChangedCounter" value="4" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PS-211.6693.120" />
+    <property name="lastSeenTip" value="neue-ImagesLookup.html" />
+    <property name="lastTimeTipsWereShown" value="1645251848811" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/laracast-blog" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="quick.doc.font.size.v3" value="X_SMALL" />
+    <property name="seenTips" value="neue-CloseOthers.html,neue-SearchInSettings.html,neue-InlineVariable.html,neue-MethodUpDown.html,neue-RemoteInterpreter.html,neue-Antivirus.html,neue-ClosingTag.html,neue-Welcome.html,neue-PreviewTODO.html,neue-BreakpointIntentions.html,neue-ImagesLookup.html" />
+    <property name="selected.color.option.type" value="PHP_TAG" />
+    <property name="settings.code.style.selected.tab.PHP" value="Blank Lines" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="php-practice-history1" project-path="C:/laragon/www/php-practice" last-access-time="1643555928796" />
+      <command-history-file filename="laravel-9-app-history1" project-path="C:/laragon/www/laravel-9-app" last-access-time="1645279375394" />
+      <command-history-file filename="laravel-9-app-history" project-path="C:/laragon/www/laravel-9-app" last-access-time="1645279375381" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="NO_TOOLBAR_NO_NAVBAR" />
+  </component>
+</application>
