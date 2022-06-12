@@ -1,0 +1,528 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CitiesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#40#60#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.env" />
+      <option value="$PROJECT_DIR$/vendor/otifsolutions/currency-layer/src/Commands/FillAllDatabaseTables.php" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/infos/info.txt" />
+      <option value="$PROJECT_DIR$/database/migrations/2022_06_04_024722_create_cities_table.php" />
+      <option value="$PROJECT_DIR$/composer.json" />
+      <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2022_06_04_034952_create_cities_table.php" />
+      <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <option value="$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console" />
+      <option value="$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console_1" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/HelloController.php" />
+      <option value="$PROJECT_DIR$/routes/web.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="infos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-laravel-project-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-laravel-project-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="artisan serve" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="test-laravel-project-dev-history" />
+      <TerminalTabState tabName="artisan console" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="test-laravel-project-dev-history9" />
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19624707" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5003903" side_tool="true" weight="0.32976446" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3608137" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960968" visible="true" weight="0.28969958" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Laravel Tinker" order="1" weight="0.32943013" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Laravel Tinker</value>
+      <value>Run</value>
+      <value>Event Log</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="315" y="242" key="#PHP" timestamp="1654444390726">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="315" y="242" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1654444390726" />
+    <state x="232" y="132" key="#Plugins" timestamp="1654292061759">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="132" key="#Plugins/0.0.1280.984@0.0.1280.984" timestamp="1654292061759" />
+    <state x="315" y="242" key="#Test_Frameworks" timestamp="1653767510456">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="315" y="242" key="#Test_Frameworks/0.0.1280.984@0.0.1280.984" timestamp="1653767510456" />
+    <state x="480" y="404" key="ComposerInitDialogKey" timestamp="1654319954730">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="480" y="404" key="ComposerInitDialogKey/0.0.1280.984@0.0.1280.984" timestamp="1654319954730" />
+    <state x="481" y="397" key="Create Controller" timestamp="1654444706393">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="481" y="397" key="Create Controller/0.0.1280.984@0.0.1280.984" timestamp="1654444706393" />
+    <state x="514" y="328" key="Create Database Migration" timestamp="1654296592386">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="514" y="328" key="Create Database Migration/0.0.1280.984@0.0.1280.984" timestamp="1654296592386" />
+    <state x="395" y="391" key="Generate Helper Code" timestamp="1654290941239">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="395" y="391" key="Generate Helper Code/0.0.1280.984@0.0.1280.984" timestamp="1654290941239" />
+    <state width="1281" height="309" key="GridCell.Tab.0.bottom" timestamp="1654346528780">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="309" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1654346528780" />
+    <state width="1281" height="309" key="GridCell.Tab.0.center" timestamp="1654346528780">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="309" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1654346528780" />
+    <state width="1281" height="309" key="GridCell.Tab.0.left" timestamp="1654346528780">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="309" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1654346528780" />
+    <state width="1281" height="309" key="GridCell.Tab.0.right" timestamp="1654346528780">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="309" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1654346528780" />
+    <state x="475" y="415" key="NewPhpFileDialog" timestamp="1654293638883">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="475" y="415" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1654293638883" />
+    <state x="378" y="414" key="Optimize Route Completions" timestamp="1654444716040">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="378" y="414" key="Optimize Route Completions/0.0.1280.984@0.0.1280.984" timestamp="1654444716040" />
+    <state x="125" y="184" width="998" height="708" key="SettingsEditor" timestamp="1654444354177">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="125" y="184" width="998" height="708" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1654444354177" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1654433028588">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1654433028588" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/otifsolutions/currency-layer/src/Commands/FetchCurrencyRates.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/otifsolutions/currency-layer/src/Commands/FillAllDatabaseTables.php" />
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/_laravel_idea/_ide_helper_facades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="2004" column="43" selection-start-line="2004" selection-start-column="43" selection-end-line="2004" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_29_174500_create_cities_table.php" />
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_05_29_152610_create_mice_table.php" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeders/CitySeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="1406" column="28" lean-forward="true" selection-start-line="1406" selection-start-column="28" selection-end-line="1406" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="147" column="20" selection-start-line="147" selection-start-column="20" selection-end-line="147" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infos/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/PreventRequestsDuringMaintenance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+          <folding>
+            <element signature="e#33#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/StateFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/lodash/_apply.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/tinker/src/Console/TinkerCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Str.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#38#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_06_04_024722_create_cities_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#39#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/routing/Annotation/Route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-769">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_06_04_034952_create_cities_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HelloController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HelpController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MiceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/City.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CitiesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#40#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<application>
+  <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/laravel-tinker/Tinker Console_1" value="PHP" />
+  </component>
+</application>

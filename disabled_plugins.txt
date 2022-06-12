@@ -36,7 +36,6 @@ hg4idea
 hunspell
 org.coffeescript
 org.editorconfig.editorconfigjetbrains
-org.intellij.plugins.markdown
 org.jetbrains.plugins.haml
 org.jetbrains.plugins.localization
 org.jetbrains.plugins.phpstorm-docker

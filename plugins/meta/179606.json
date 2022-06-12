@@ -1,0 +1,1 @@
+{"id":179606,"xmlId":"com.jetbrains.plugins.asp","name":"ASP","description":"(Obsolete) Supports editing HTML code in Active Server Pages files","organization":"JetBrains s.r.o.","tags":["Miscellaneous"],"vendor":"JetBrains","version":"183.4284.141","dependencies":["com.intellij.modules.xml"],"since":"88.10000","size":19908}

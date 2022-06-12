@@ -5,15 +5,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -22,83 +13,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testClasses/Fruit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testClasses/NicePerson.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="200">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testClasses/Strawberry.php">
+        <entry file="file://$PROJECT_DIR$/testClasses/NicePerson.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testClasses/init.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#8#32#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/APIs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testClasses/Pdo.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstractIndex.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkIndex.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testClasses/code.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="200">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -136,11 +61,12 @@
       <option value="$PROJECT_DIR$/polyIndex.php" />
       <option value="$PROJECT_DIR$/testClasses/Person.php" />
       <option value="$PROJECT_DIR$/testClasses/code.php" />
-      <option value="$PROJECT_DIR$/testClasses/Strawberry.php" />
       <option value="$PROJECT_DIR$/classes/Functions.php" />
       <option value="$PROJECT_DIR$/testClasses/Pdo.php" />
       <option value="$PROJECT_DIR$/testClasses/NicePerson.php" />
+      <option value="$PROJECT_DIR$/hackerrank-challenges/reverseArray.php" />
       <option value="$PROJECT_DIR$/abstractIndex.php" />
+      <option value="$PROJECT_DIR$/testClasses/Strawberry.php" />
       <option value="$PROJECT_DIR$/testClasses/Fruit.php" />
     </changedPaths>
   </component>
@@ -174,6 +100,11 @@
             <path>
               <item name="php-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank-challenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-practice" type="462c0819:PsiDirectoryNode" />
               <item name="testClasses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -185,13 +116,13 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\laragon\www\php-practice\" commandHistoryFileName="php-practice-history1" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="php-practice-history1" />
     </option>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17826428" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17798595" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" weight="0.32943013" />
@@ -204,17 +135,18 @@
       <window_info anchor="bottom" id="Problems View" order="5" weight="0.32832617" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32725322" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3254818" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Flow" order="10" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Laravel Tinker" order="1" />
     </layout>
     <recentWindows>
       <value>Project</value>
-      <value>Event Log</value>
       <value>Terminal</value>
+      <value>Event Log</value>
       <value>Find</value>
       <value>Problems View</value>
       <value>Commit</value>
@@ -222,46 +154,26 @@
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
   <component name="WindowStateProjectService">
-    <state x="315" y="242" key="#PHP" timestamp="1643274374028">
+    <state x="315" y="242" key="#PHP" timestamp="1654445175869">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="315" y="242" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1643274374028" />
-    <state x="444" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1643462841478">
+    <state x="315" y="242" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1654445175869" />
+    <state x="475" y="415" key="NewPhpFileDialog" timestamp="1654445211338">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="444" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1280.984@0.0.1280.984" timestamp="1643462841478" />
-    <state x="369" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1643554018005">
+    <state x="475" y="415" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1654445211338" />
+    <state x="141" y="136" key="SettingsEditor" timestamp="1654931559983">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="369" y="237" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1643554018005" />
-    <state x="479" y="403" key="ComposerInitDialogKey" timestamp="1643665958797">
+    <state x="141" y="136" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1654931559983" />
+    <state x="296" y="226" key="run.anything.popup" timestamp="1654931360315">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="479" y="403" key="ComposerInitDialogKey/0.0.1280.984@0.0.1280.984" timestamp="1643665958797" />
-    <state x="340" y="203" key="NewPhpClassDialog" timestamp="1643555677143">
+    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1654931360315" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1654931377015">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="340" y="203" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1643555677143" />
-    <state x="473" y="411" key="NewPhpFileDialog" timestamp="1643559238296">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="473" y="411" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1643559238296" />
-    <state x="68" y="135" key="SettingsEditor" timestamp="1643718565576">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="68" y="135" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1643718565576" />
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2" timestamp="1643327851476">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="232" y="224" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1643327851476" />
-    <state x="296" y="226" key="run.anything.popup" timestamp="1643554075359">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1643554075359" />
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1643718276636">
-      <screen x="0" y="0" width="1280" height="984" />
-    </state>
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1643718276636" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1654931377015" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/classes/A.php">
@@ -325,16 +237,6 @@
     <entry file="file://$PROJECT_DIR$/codes.php" />
     <entry file="file://$PROJECT_DIR$/config.php" />
     <entry file="file://$PROJECT_DIR$/demoPolymorphism.php" />
-    <entry file="file://$PROJECT_DIR$/codility/binaryGap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
-          <folding>
-            <element signature="e#7#1277#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/namespacesTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -356,13 +258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/form1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-356">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -448,20 +343,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json" />
-    <entry file="file://$PROJECT_DIR$/checkIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testClasses/code.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/Functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3116">
@@ -480,55 +361,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testClasses/init.php">
+    <entry file="file://$PROJECT_DIR$/testClasses/Pdo.php" />
+    <entry file="file://$PROJECT_DIR$/testClasses/SuperPerson.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/form1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="22">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codility/binaryGap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
           <folding>
-            <element signature="e#8#32#0#PHP" expanded="true" />
+            <element signature="e#7#1277#0#PHP" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APIs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testClasses/Pdo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstractIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testClasses/Fruit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testClasses/NicePerson.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testClasses/Strawberry.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="360">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank-challenges/reverseArray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClasses/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APIs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstractIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClasses/code.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClasses/Fruit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClasses/NicePerson.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

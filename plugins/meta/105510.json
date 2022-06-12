@@ -1,0 +1,1 @@
+{"id":105510,"xmlId":"de.beyondco.tinkerwell.tinkerwell","name":"Tinkerwell","description":"Tinker with your PHP projects using Tinkerwell.","tags":["Code Tools"],"vendor":"Beyond Code","version":"2.0","dependencies":["com.jetbrains.php","com.intellij.modules.lang"],"since":"193.0","size":1499337}

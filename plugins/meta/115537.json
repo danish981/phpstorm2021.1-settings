@@ -1,0 +1,1 @@
+{"id":115537,"xmlId":"spy-js","name":"Spy-js","description":"Allows to trace JavaScript code execution in any browser, on any device and platform","organization":"JetBrains s.r.o.","tags":["JavaScript"],"vendor":"JetBrains","version":"211.6693.78","dependencies":["JavaScript","com.intellij.modules.xml","JavaScriptDebugger"],"since":"211.6693","until":"211.*","size":3926923}
