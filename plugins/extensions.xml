@@ -2670,6 +2670,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.breeze">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.weibo.open.plugin.breeze" />
+              <option name="myPluginName" value="BreezeHelper" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.briefcaseDefinition">
       <plugins>
         <option name="myPlugins">
@@ -7054,6 +7068,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.flowtest">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.fluid">
       <plugins>
         <option name="myPlugins">
@@ -9369,6 +9397,20 @@
             <plugin>
               <option name="myPluginId" value="org.dylanfoundry.deft" />
               <option name="myPluginName" value="DeftIDEA" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.invaders">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.nizienko.SpaceInvaders" />
+              <option name="myPluginName" value="Space Invaders" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>
@@ -14600,6 +14642,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.onnx">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="cn.shanghai.oyb.onnx" />
+              <option name="myPluginName" value="ONNX4IDEA" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.opts">
       <plugins>
         <option name="myPlugins">
@@ -16902,6 +16958,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.qoi">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="io.github.xiaozhuai.jetbrains-qoi" />
+              <option name="myPluginName" value="QOI Support" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.qrc">
       <plugins>
         <option name="myPlugins">
@@ -18496,6 +18566,20 @@
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>
+            <plugin>
+              <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
+              <option name="myPluginName" value="Illuminated Cloud 2" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="*.schedulingObjective">
+      <plugins>
+        <option name="myPlugins">
+          <set>
             <plugin>
               <option name="myPluginId" value="com.illuminatedcloud2.intellij" />
               <option name="myPluginName" value="Illuminated Cloud 2" />
@@ -21947,12 +22031,6 @@
               <option name="myFromCustomRepository" value="false" />
             </plugin>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
-            <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.enterprise.plugin.id" />
               <option name="myPluginName" value="TYPO3 TypoScript - Enterprise" />
               <option name="myBundled" value="false" />
@@ -24566,6 +24644,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key=".angular-cli.json">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.iguissouma.nxconsole" />
+              <option name="myPluginName" value="Nx Console Idea" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key=".asciidoctorconfig">
       <plugins>
         <option name="myPlugins">
@@ -25580,6 +25672,34 @@
         </option>
       </plugins>
     </entry>
+    <entry key="angular-cli.json">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.iguissouma.nxconsole" />
+              <option name="myPluginName" value="Nx Console Idea" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="angular.json">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.iguissouma.nxconsole" />
+              <option name="myPluginName" value="Nx Console Idea" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="antora.yml">
       <plugins>
         <option name="myPlugins">
@@ -25792,12 +25912,6 @@
       <plugins>
         <option name="myPlugins">
           <set>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
             <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.plugin.id" />
               <option name="myPluginName" value="TypoScript - Old Version" />
@@ -26093,28 +26207,8 @@
         <option name="myPlugins">
           <set>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
-            <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.plugin.id" />
               <option name="myPluginName" value="TypoScript - Old Version" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
-    <entry key="ext_typoscript_constants.txt">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>
@@ -26126,12 +26220,6 @@
       <plugins>
         <option name="myPlugins">
           <set>
-            <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
             <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.plugin.id" />
               <option name="myPluginName" value="TypoScript - Old Version" />
@@ -26740,20 +26828,6 @@
         </option>
       </plugins>
     </entry>
-    <entry key="nx.json">
-      <plugins>
-        <option name="myPlugins">
-          <set>
-            <plugin>
-              <option name="myPluginId" value="com.github.iguissouma.nxconsole" />
-              <option name="myPluginName" value="Nx Console Idea" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
-          </set>
-        </option>
-      </plugins>
-    </entry>
     <entry key="objc.dal">
       <plugins>
         <option name="myPlugins">
@@ -27175,12 +27249,6 @@
         <option name="myPlugins">
           <set>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.typoscript" />
-              <option name="myPluginName" value="TYPO3 TypoScript Support" />
-              <option name="myBundled" value="false" />
-              <option name="myFromCustomRepository" value="false" />
-            </plugin>
-            <plugin>
               <option name="myPluginId" value="de.sgalinski.typoscript.plugin.id" />
               <option name="myPluginName" value="TypoScript - Old Version" />
               <option name="myBundled" value="false" />
@@ -27471,6 +27539,20 @@
             <plugin>
               <option name="myPluginId" value="com.darkyen.wemi.intellij" />
               <option name="myPluginName" value="Wemi" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="workspace.json">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="com.github.iguissouma.nxconsole" />
+              <option name="myPluginName" value="Nx Console Idea" />
               <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>

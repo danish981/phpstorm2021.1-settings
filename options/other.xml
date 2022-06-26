@@ -48,36 +48,39 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="FileTemplates.SelectedTemplate" value="Less File" />
     <property name="FontPreviewText" value="PhpStorm is an Integrated &#10;Development Environment (IDE) designed&#10;to maximize productivity. It provides&#10;clever code completion, static code&#10;analysis, and refactorings, and lets&#10;you focus on the bright side of&#10;software development making&#10;it an enjoyable experience.&#10;&#10;abcdefghijklmnopqrstuvwxyz&#10;ABCDEFGHIJKLMNOPQRSTUVWXYZ&#10; 0123456789 (){}[]&#10; +-*/= .,;:!? #&amp;$%@|^&#10;&#10;&lt;!-- -- != := === &gt;= &gt;- &gt;=&gt; |-&gt; -&gt; &lt;$&gt;&#10;&lt;/&gt; #[ |||&gt; |= ~@" />
-    <property name="InstalledPluginsSearchHistory" value="tailwind&#10;tailwi&#10;tail&#10;tai&#10;t" />
+    <property name="InstalledPluginsSearchHistory" value="whisper&#10;tailwind&#10;tailwi&#10;tail&#10;tai" />
     <property name="KEYMAP" value="font&#10;php file&#10;database" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="MTUILite.version" value="4.0" />
-    <property name="MarketplacePluginsSearchHistory" value="/tag:Theme&#10;/tag:&quot;User Interface&quot;&#10;boot&#10;tailwind&#10;git" />
+    <property name="MarketplacePluginsSearchHistory" value="whisper&#10;whis&#10;whi&#10;code whispe&#10;code whisper" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RunOnceActivity.laravel-idea.show-helper-code-action-info" value="true" />
     <property name="SettingsSearchHistory" value="laravel idea&#10;method sep&#10;me&#10;console font&#10;material se" />
-    <property name="appcds.runOnSecondStart" value="PS-211.6693.120-38a8ea8d68a306a6f6bde5c9493b1117079d7c6bd145402501a5dd951278a356" />
+    <property name="appcds.runOnSecondStart" value="PS-211.6693.120-5e17f8d4e0ad4d963cf0f92f99f59ad665ba5d5db180431020c622493a2e196f" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="bidi.content.notification.disable" value="true" />
+    <property name="evlsprt3.211" value="12" />
     <property name="file.chooser.recent.files" value="C:/xampp/htdocs/laravel-project-demo&#10;C:/xampp/htdocs/laracast-blog/tailwindConfig-default.js&#10;C:/xampp/htdocs/laracast-blog&#10;C:/xampp/htdocs/Laravel-From-Scratch-Blog-Project" />
-    <property name="file.gist.reindex.count" value="103" />
+    <property name="file.gist.reindex.count" value="119" />
     <property name="fileTypeChangedCounter" value="5" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector" />
+    <property name="got.it.tooltip.copilot.inlayGotIt" value="1" />
     <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PS-211.6693.120" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
-    <property name="lastSeenTip" value="neue-Emmet.html" />
-    <property name="lastTimeTipsWereShown" value="1655025276266" />
+    <property name="lastSeenTip" value="neue-EditRegExp.html" />
+    <property name="lastTimeTipsWereShown" value="1656238467569" />
     <property name="last_opened_file_path" value="C:/xampp/htdocs/laravel-project-demo" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
     <property name="quick.doc.font.size.v3" value="X_SMALL" />
-    <property name="seenTips" value="neue-PostfixCompletion.html,neue-DragToOpen.html,neue-Antivirus.html,neue-InlineVariable.html,neue-ImagesLookup.html,neue-CloseOthers.html,neue-Multiselection2.html,neue-SearchInSettings.html,neue-BreakpointIntentions.html,neue-ClosingTag.html,neue-PreviewTODO.html,neue-MethodUpDown.html,neue-Welcome.html,neue-RemoteInterpreter.html,neue-pull_requests.html,neue-Emmet.html" />
+    <property name="seenTips" value="neue-RemoteInterpreter.html,neue-GoToImplementation.html,neue-Emmet.html,neue-Antivirus.html,neue-pull_requests.html,neue-Welcome.html,neue-ImagesLookup.html,neue-BreakpointIntentions.html,neue-Multiselection2.html,neue-SearchInSettings.html,neue-PreviewTODO.html,neue-ClosingTag.html,neue-DragToOpen.html,neue-CloseOthers.html,neue-PostfixCompletion.html,neue-MethodUpDown.html,neue-InlineVariable.html,neue-EditRegExp.html" />
     <property name="selected.color.option.type" value="MATCHED_TAG_NAME" />
     <property name="settings.code.style.selected.tab.HTML" value="Code Generation" />
     <property name="settings.code.style.selected.tab.PHP" value="Blank Lines" />
@@ -89,6 +92,7 @@
       <command-history-file filename="test-laravel-project-dev-history9" project-path="C:/xampp/htdocs/test-laravel-project-dev" last-access-time="1654444238411" />
       <command-history-file filename="php-practice-history1" project-path="C:/xampp/htdocs/php-practice" last-access-time="1654931576569" />
       <command-history-file filename="test-laravel-project-dev-history" project-path="C:/xampp/htdocs/test-laravel-project-dev" last-access-time="1654444238397" />
+      <command-history-file filename="laravel-project-demo-history" project-path="C:/xampp/htdocs/laravel-project-demo" last-access-time="1655062702538" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
